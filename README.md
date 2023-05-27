@@ -5,4 +5,5 @@ A book on Rust
 [Introduction](INTRODUCTION.md)
 
 # Hello, Rust! 
+[Hello, Rust!](HELLO_RUST.md)
 
