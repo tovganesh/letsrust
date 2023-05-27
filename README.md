@@ -7,3 +7,10 @@ A book on Rust
 # Hello, Rust! 
 [Hello, Rust!](HELLO_RUST.md)
 
+# Datatypes
+
+# Functions 
+
+# Memory Model
+
+
