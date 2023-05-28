@@ -1,17 +1,22 @@
 # Let us Rust
 A book on Rust
 
-# Introduction 
+# Table of Content
 [Introduction](INTRODUCTION.md)
 
-# Hello, Rust! 
 [Hello, Rust!](HELLO_RUST.md)
 
-# Datatypes
+[Datatypes]()
 
-# Functions 
+[Operators]()
 
-# Memory Model
+[Control Statements]()
 
-# cargo: Rust package manager
+[Looping]()
+
+[Functions]()
+
+[Memory Model]()
+
+[cargo: Rust package manager]()
 
